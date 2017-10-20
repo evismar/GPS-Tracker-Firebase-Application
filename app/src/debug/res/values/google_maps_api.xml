@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=9B:4F:E3:14:AB:38:84:4E:C5:73:99:3E:5F:4D:64:2E:5B:D2:38:F6%3Bcom.tutorials.evismar.gps_application
+
+    You can also add your credentials to an existing key, using this line:
+    9B:4F:E3:14:AB:38:84:4E:C5:73:99:3E:5F:4D:64:2E:5B:D2:38:F6;com.tutorials.evismar.gps_application
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDRj7M2UB2Oabi7f6o0w9GyyCHZNnYODVA</string>
+</resources>

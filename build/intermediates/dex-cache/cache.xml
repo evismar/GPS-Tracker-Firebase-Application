@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-11.0.4_b4512b7739836f95ec9f95c3a91b06d09372040a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-11.0.4_e70156c50b1a526d087b02a16e5289fbcf2d641d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-11.0.4_cb1e75cfb624ecb8f8c480a1c36524645843feea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-dynamic-links/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-dynamic-links-11.0.4_79d572ceddb9c0164f6b6996224806c0ff1e8017/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-11.0.4_f24cd2b1a4c27433b2ef92aa475fc2d286fcd961/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_497c10fd61055cce2d5d56fe0e5c6e8782c4d0fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-11.0.4_99cfd46f9a179542d57d58f25e1a4a67669cddad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_0fe856ba09abc6674791805058d35631cb6c6605/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_59545ec25776dffc5dc3a6e17ca1c4047111c73f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-11.0.4_86708690072784ab44cf45b47e9877e329b99997/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-11.0.4_ff43f2b0741c55f05a3a81389e14c22df296a080/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-25.2.0_9cda57b67ee532ba635b3957c681ecf109581a55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-25.2.0_344951a1684443b458d8b3cd85ddbd42ed0e7d45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-11.0.4_3f0d170c628381daa2b379c75c080a1e0f829564/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-11.0.4_fc680621002fe04009eb8d4b37e091612d6950a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-11.0.4_507a0895b9bbcc7f928a7ccec3c416039a2103ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-11.0.4_8c71517180ac2f1c34e4eb292a45c7fab0644f9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-11.0.4_1e5b21ce5ec553ee9167174c79f3bae7ee59f29a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_d917ce60155c9d8af1db402005b750955cc97d7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_74b6ed3bb45449982e2d6bb6f847731ba0eb1e07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-11.0.4_bd212f05ca1ab25e4b080e45006fb79f60d5da30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-11.0.4_fa57d82ca9be5f5379303155d62e8083fe3d3cac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision-common/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-common-11.0.4_52eb2bdc26886fb6a5bd1cbd7e4a7722a441a4aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-11.0.4_0c0afbc41201bb7e0cf5a92d2daef2861dba9619/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-11.0.4_ba0cffebee937cfcb3278a6f14959ff0a4b28784/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-11.0.4_173841e0109dea26f6334a90badfe23122a7a936/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-11.0.4_eae70668c82288c33fa5a53cd827fdabd3e653a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-11.0.4_718ec81a10b3bd3c6a44695ec59925c194a2e938/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-11.0.4_771784726f0cd04374bbf3e1453f1437485f16e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-11.0.4_184e19075076a7699b42977e7f3c7aac33e2da36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-11.0.4_0aed1ed67c65b7a6c3eaeb2d555624e0f139baeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-11.0.4_726cb21585503f61aabfd931908b9ea1bc94bc01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-api-phone/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-api-phone-11.0.4_aedd2088fcf804c4d0a4692791dac5d4f950003b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_ae7a8dd3ddfdc7af2f059c5873e4fbb0df302432/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_51112ddf729c2d3845f35b8359dbfd221a099005/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-11.0.4_db91742870b8fde62314c69b57c9e66fb98e756a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-11.0.4_fa25a18bb482d8a7c38e80499b3180549406659e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-11.0.4_09af1f62ae4b66b8a121cf2ec5cc903f0db31c2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-11.0.4_e05e07c9435f45d8a6d1c77eec4b90d7eccfc62a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-11.0.4_8f85358d5f110c7b9b8f920e5c947ea8a16f56b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-11.0.4_fb42d202cba70ab30468a1f4d13cc993a1d6cc8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-11.0.4_65e3d1c3677e04a3a4df38607622e1a90aaf40a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_c79e4f907ec8659671ff3874eb80b5de74dd0f98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-11.0.4_c927e29591f481f666fc72cd5a793c4a0cc80bba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28b6dc280a00b0cc3797491b0ab88bfb368972e2">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_60b39834eab0028557df31032a0d0faa67b010d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_a79d31b63ab74237d60e99a991997411a0a24a56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-11.0.4_5737fcb0fc7b40d6edbe86caa86a93e207fc0e0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-11.0.4_d302746d765a770edd96df2280a0c846a810285d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-11.0.4_9498488c3230130fae366cffd12cbf2e405b2054/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_adf39d69db470a3070b9d789b8b3e547e1ce4109/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-11.0.4_0e6b1dbb81dec7162d70f1a6a1a3a5e599abadcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-11.0.4_737623b9d2d958d9783d7a0082cb04fd5dbdc60d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-11.0.4_a58850a7db6fec3f3a17ab9fcb696b5ab3825dff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-11.0.4_4659a02d6887b0f30dd7644b23b3338724c95d4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-11.0.4_6577987ba5d66016e2d6e1efdb06144c257b2f01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f08097ddc6425dbd5f0c3785a84e1c1bd97e1c6">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7c1bfa43fe9f2c7254acae698d97426485c6fa69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-11.0.4_68648bc3e4b94d7f2997b8f45123ee84012d127f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-11.0.4_7155c75dd570d42da802fcb1776ca56a20f9b152/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-11.0.4_8aa6570cae243dbdd19d1829ba096d6623affcc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-11.0.4_38b57f9719e44437594742af1eb2240b4d14965b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-11.0.4_11d25eb5c360e45bb636e0316ad21c2ebd4dfb1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_300cba0bf4d159499e5a27dea318466ef645c6d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-11.0.4_4001ab85472f95babdda260ccec52342563c5390/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-11.0.4_81464221282fb36b8f8dfffc741c32b6c49f4b52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-11.0.4_52ed85fd5e3303564872fc310400c1287f657e99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_fdd2dc9abfa1df147afecee7ec558f28212ffb04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_80e24e461135bb934fc054a083efb718f36ef7be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/GPS_Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/user/Downloads/GPS_Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-11.0.4_f6d9af54571f5f7fa9b9f453fe5468cbf835f938/classes.dex" />
+    </item>
+
+</items>

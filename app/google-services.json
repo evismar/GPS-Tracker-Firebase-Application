@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "942955787474",
+    "firebase_url": "https://gps-application-237ce.firebaseio.com",
+    "project_id": "gps-application-237ce",
+    "storage_bucket": "gps-application-237ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942955787474:android:6d4199a41cabff94",
+        "android_client_info": {
+          "package_name": "com.tutorials.evismar.gps_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942955787474-fem1lt295e3q0aq769e7icsu97qnsp44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutorials.evismar.gps_application",
+            "certificate_hash": "9b4fe314ab38844ec573993e5f4d642e5bd238f6"
+          }
+        },
+        {
+          "client_id": "942955787474-j9b50f65orlb1he53r0f21sa8s36eorr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjS0LiNdlFWZe1YZsycA5ljAZIdJ_NtJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942955787474-j9b50f65orlb1he53r0f21sa8s36eorr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
